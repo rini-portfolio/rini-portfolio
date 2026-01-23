@@ -1,54 +1,62 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rini! 👋 <br/>
+<a href="https://github.com/Rini">Senior Technical Project Manager | Solution Architect | Scrum Master</a>, 
+<a href="https://www.linkedin.com/in/rini-sengupta-70a15828b">Software Engineer with 16+ years of experience in IT</a>
+</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🧠 About Me</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<p>
+I am a senior technology leader with <b>16+ years of experience</b> delivering enterprise SaaS platforms,
+cloud-native solutions, and large-scale technical transformations.
+I have led <b>4–6 cross-functional Agile teams</b>, collaborating closely with Product Owners,
+Engineering, QA, Security, and business stakeholders to deliver predictable, high-quality outcomes.
+</p>
 
-<h2>📺 Popular YouTube Videos</h2>
+<p>
+<b>Certified ScrumMaster (CSM)</b> with strong hands-on experience in <b>Java, Spring Boot, Microservices</b>,
+and cloud platforms including <b>AWS and Azure</b>. Known for improving delivery predictability,
+reducing release cycle times, and building high-performing teams.
+</p>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>👨‍💻 Featured Projects & Architecture Work</h2>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Enterprise Payment Platform (Multi-Vendor Integration)</b>  
+  - Led architecture and Agile delivery for a multi-channel SaaS payment platform integrating multiple vendors  
+  - Tech: Java, Spring Boot, REST APIs, AWS, CI/CD  
+  - <a href="https://github.com/Rini/payment-platform-architecture">View Repository</a>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>Cloud-Native Microservices Reference Architecture</b>  
+  - Designed scalable microservices architecture with API contracts and deployment automation  
+  - Tech: Spring Boot, Docker, Kubernetes, AWS  
+  - <a href="https://github.com/Rini/cloud-microservices-architecture">View Repository</a>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- <b>CI/CD & DevOps Automation</b>  
+  - Implemented automated build and deployment pipelines supporting frequent, stable releases  
+  - Tech: Jenkins, GitHub Actions, Maven, Docker  
+  - <a href="https://github.com/Rini/ci-cd-pipeline-demo">View Repository</a>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Agile Delivery & Scrum Playbook</b>  
+  - Practical templates for Scrum ceremonies, backlog strategy, and KPIs (velocity, cycle time, burndown)  
+  - Focused on enterprise Agile delivery and release governance  
+  - <a href="https://github.com/Rini/agile-delivery-playbook">View Repository</a>
 
-Here are some ideas to get you started:
+<h2>🛠 Core Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><b>Architecture:</b> Java, Spring Boot, Microservices, REST APIs</li>
+  <li><b>Cloud:</b> AWS (EC2, RDS, Lambda, API Gateway), Azure</li>
+  <li><b>Delivery:</b> Agile, Scrum, DevOps, CI/CD, ITIL-aligned Change & Release</li>
+  <li><b>Leadership:</b> Stakeholder Management, Team Coaching, Delivery Governance</li>
+  <li><b>Tools:</b> Jira, Confluence, GitHub, Jenkins, Docker, Kubernetes</li>
+</ul>
+
+<h2>🤳 Connect with Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/rini-sengupta-70a15828b">
+<img align="left" alt="Rini Sengupta | LinkedIn" width="22px" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+
+<br/><br/>
