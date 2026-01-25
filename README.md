@@ -23,7 +23,7 @@ reducing release cycle times, and building high-performing teams.
 - <b>Enterprise Payment Platform (Multi-Vendor Integration)</b>  
   - Led architecture and Agile delivery for a multi-channel SaaS payment platform integrating multiple vendors  
   - Tech: Java, Spring Boot, REST APIs, AWS, CI/CD  
-  - <a href="https://github.com/Rini/payment-platform-architecture">View Repository</a>
+  - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/payment_platform.md">View Repository</a>
 
 - <b>Cloud-Native Microservices Reference Architecture</b>  
   - Designed scalable microservices architecture with API contracts and deployment automation  
