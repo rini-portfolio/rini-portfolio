@@ -25,17 +25,16 @@ reducing release cycle times, and building high-performing teams.
   - Tech: Java, Spring Boot, REST APIs, AWS, CI/CD  
   - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/payment_platform.md">View Repository</a>
 
-- <b>Cloud-Native Microservices Reference Architecture</b>  
+- <b>Gift Card Purchase & Fulfillment Flow</b>  
   - Designed scalable microservices architecture with API contracts and deployment automation  
-  - Tech: Spring Boot, Docker, Kubernetes, AWS  
-  - <a href="https://github.com/Rini/cloud-microservices-architecture">View Repository</a>
+  - Tech: Java, Python, Spring Boot, Docker, Kubernetes, AWS  
+  - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/giftcard_purchase_fulfillment.md">View Repository</a>
 
-- <b>CI/CD & DevOps Automation</b>  
+- <c>CI/CD & DevOps Automation</b>  
   - Implemented automated build and deployment pipelines supporting frequent, stable releases  
   - Tech: Jenkins, GitHub Actions, Maven, Docker  
-  - <a href="https://github.com/Rini/ci-cd-pipeline-demo">View Repository</a>
 
-- <b>Agile Delivery & Scrum Playbook</b>  
+- <d>Shelters</b>  
   - Practical templates for Scrum ceremonies, backlog strategy, and KPIs (velocity, cycle time, burndown)  
   - Focused on enterprise Agile delivery and release governance  
   - <a href="https://github.com/Rini/agile-delivery-playbook">View Repository</a>
@@ -43,7 +42,7 @@ reducing release cycle times, and building high-performing teams.
 <h2>🛠 Core Skills</h2>
 
 <ul>
-  <li><b>Architecture:</b> Java, Spring Boot, Microservices, REST APIs</li>
+  <li><b>Architecture:</b> Java, Python, Spring Boot, Microservices, REST APIs</li>
   <li><b>Cloud:</b> AWS (EC2, RDS, Lambda, API Gateway), Azure</li>
   <li><b>Delivery:</b> Agile, Scrum, DevOps, CI/CD, ITIL-aligned Change & Release</li>
   <li><b>Leadership:</b> Stakeholder Management, Team Coaching, Delivery Governance</li>
