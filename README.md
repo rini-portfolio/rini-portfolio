@@ -35,9 +35,8 @@ reducing release cycle times, and building high-performing teams.
   - Tech: Jenkins, GitHub Actions, Maven, Docker  
 
 - <d>Shelters</b>  
-  - Practical templates for Scrum ceremonies, backlog strategy, and KPIs (velocity, cycle time, burndown)  
-  - Focused on enterprise Agile delivery and release governance  
-  - <a href="https://github.com/Rini/agile-delivery-playbook">View Repository</a>
+  - Designed scalable microservices architecture with API contracts and deployment automation   
+  - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/shelter_management.md">View Repository</a>
 
 <h2>🛠 Core Skills</h2>
 
