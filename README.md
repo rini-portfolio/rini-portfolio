@@ -35,13 +35,14 @@ reducing release cycle times, and building high-performing teams.
   - Tech: Jenkins, GitHub Actions, Maven, Docker  
 
 - <d>Shelters</b>  
-  - Designed scalable microservices architecture with API contracts and deployment automation   
+  - Designed scalable microservices architecture with API contracts and deployment automation
+  - Tech: Java,Spring Boot,Microservices, Graphql Docker, Kubernetes, AWS  
   - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/shelter_management.md">View Repository</a>
 
 <h2>🛠 Core Skills</h2>
 
 <ul>
-  <li><b>Architecture:</b> Java, Python, Spring Boot, Microservices, REST APIs</li>
+  <li><b>Architecture:</b> Java, Python, Spring Boot, Microservices, REST APIs, Graphql, Postgres, Oracle</li>
   <li><b>Cloud:</b> AWS (EC2, RDS, Lambda, API Gateway), Azure</li>
   <li><b>Delivery:</b> Agile, Scrum, DevOps, CI/CD, ITIL-aligned Change & Release</li>
   <li><b>Leadership:</b> Stakeholder Management, Team Coaching, Delivery Governance</li>
