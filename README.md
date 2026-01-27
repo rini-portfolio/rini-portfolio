@@ -39,6 +39,28 @@ reducing release cycle times, and building high-performing teams.
   - Tech: Java,Spring Boot,Microservices, Graphql Docker, Kubernetes, AWS  
   - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/shelter_management.md">View Repository</a>
 
+  
+<h2>🔁 Agile Delivery & Scrum Master Playbooks (Hands-On)</h2>
+
+<p>
+I design and use <b>practical, reusable Scrum Master templates</b> applied across enterprise programs
+to improve execution discipline, delivery transparency, and stakeholder confidence.
+</p>
+
+<ul>
+  <li><b>Sprint Planning & Backlog Readiness Checklist</b> – Technical readiness, dependency mapping, estimation confidence</li>
+  <li><b>Sprint Metrics & KPI Dashboard</b> – Velocity, cycle time, throughput, burndown analysis</li>
+  <li><b>Release & Change Readiness Framework</b> – ITIL-aligned governance for risk-managed releases</li>
+  <li><b>Retrospective & Continuous Improvement Playbooks</b> – Data-driven retros focused on measurable actions</li>
+</ul>
+
+<p>
+📂 <b>View Agile Delivery & Scrum Master Templates:</b><br/>
+<a href="https://github.com/rini-portfolio/agile-playbooks">
+GitHub – Agile Delivery Playbooks
+</a>
+</p>
+
 <h2>🛠 Core Skills</h2>
 
 <ul>
