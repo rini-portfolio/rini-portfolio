@@ -28,7 +28,7 @@ reducing release cycle times, and building high-performing teams.
 - <b>Gift Card Purchase & Fulfillment Flow</b>  
   - Designed scalable microservices architecture with API contracts and deployment automation  
   - Tech: Java, Python, Spring Boot, Docker, Kubernetes, AWS  
-  - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/giftcard_purchase_fulfillment.md">View Repository</a>
+  - <a href="https://github.com/rini-portfolio/GiftcardFulfillment/readme.md">View Repository</a>
 
 - <c>CI/CD & DevOps Automation</b>  
   - Implemented automated build and deployment pipelines supporting frequent, stable releases  
