@@ -36,7 +36,7 @@ reducing release cycle times, and building high-performing teams.
 
 - <d>Shelters</b>  
   - Designed scalable microservices architecture with API contracts and deployment automation
-  - Tech: Java,Spring Boot,Microservices, Graphql Docker, Kubernetes, AWS  
+  - Tech: Java,Spring Boot,Microservices, Graphql Docker, Azure  
   - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/shelter_management.md">View Repository</a>
 
   
