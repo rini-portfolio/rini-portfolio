@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rini! 👋 <br/>
-<a href="https://github.com/Rini">Senior Technical Project Manager | Solution Architect | Scrum Master|</a> 
+<a href="https://github.com/Rini">Senior Technical Project Manager | Architect | Scrum Master|</a> 
 <a href="https://www.linkedin.com/in/rini-sengupta-70a15828b">Software Engineer with 16+ years of experience in IT</a>
 </h1>
 
