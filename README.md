@@ -22,7 +22,7 @@ reducing release cycle times, and building high-performing teams.
 
 - <b>Enterprise Payment Platform (Multi-Vendor Integration)</b>  
   - Led architecture and Agile delivery for a multi-channel SaaS payment platform integrating multiple vendors  
-  - Tech: Java, Spring Boot, REST APIs, AWS, CI/CD  
+  - Tech: Java, Spring Boot, REST APIs, Kafka , AWS, CI/CD  
   - <a href="https://github.com/rini-portfolio/techportfolio/blob/main/case_studies/payment_platform.md">View Repository</a>
 
 - <b>Gift Card Purchase & Fulfillment Flow</b>  
